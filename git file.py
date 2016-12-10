@@ -9,7 +9,7 @@
 
 #ex
 
-med={1,3,8,10}
+med={1,3,8, 10}
 
 
 def median(lst):
